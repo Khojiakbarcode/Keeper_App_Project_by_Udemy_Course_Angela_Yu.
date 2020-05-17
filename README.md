@@ -1,2 +1,0 @@
-# Keeper_App_Project_by_Udemy_Course_Angela_Yu.
-Created with CodeSandbox
